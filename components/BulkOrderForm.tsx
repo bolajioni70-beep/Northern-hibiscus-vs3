@@ -206,7 +206,7 @@ Phone: ${phone}`;
       >
         Send Bulk Order via WhatsApp
       </button>
-    </form>
+    <</form>
   );));
 }
 }
