@@ -206,7 +206,13 @@ Phone: ${phone}`;
       >
         Send Bulk Order via WhatsApp
       </button>
-    <</form>
-  );));
+      </form>
+210    );
+211  }
+  );)
+    
+    
+210    );
+211  }
 }
 }
